@@ -1,4 +1,3 @@
-<a href="https://docs.google.com/spreadsheets/d/1cqnQtk0iNMu_QEe1E56HM6Ull4Ce1Rb6mboTw1yW2W4/edit?usp=sharing">Click Here</a> for Project Description
 <div class=“row” style=“height:500px”>
  <div class=“column” style=“width:50%“>
 <!--    <img src=“/images/my_pic.jpeg” alt=“Avatar” style=“width:300px”><br> -->
