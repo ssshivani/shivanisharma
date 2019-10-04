@@ -2,7 +2,9 @@
   <div class="column" style="width:50%">
     <img src="/images/my_pic.jpg" alt="Avatar" style="width:300px"><br>
     <br><p>
-   Mobile: +91 9834787497<br>
+Self-motivated Quality Analyst with 3.7 years of  UI/UX & backend QA experience in the Fintech industry, worked extensively in all        phases of testing for client/server applications. Have worked on the most critical payment checkout page for 3+ years ensuring significant cost savings and fault-free audits. Proficient in system, unit, performance, load, regression, stress and data interface testing, providing detailed reports on quality metrics and ensuring corrective actions are taken.
+  <br>
+  Mobile: +91 9834787497<br>
    Email:  ssshivanisharma10@gmail.com</p>
   </div>
   
