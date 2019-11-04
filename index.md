@@ -12,4 +12,5 @@ Self-motivated Quality Analyst with 4.7 years of  UI/UX & backend QA experience 
      <br>
    1. <a href="https://docs.google.com/spreadsheets/d/1cqnQtk0iNMu_QEe1E56HM6Ull4Ce1Rb6mboTw1yW2W4/edit?usp=sharing">Projects Description</a><br><br>
    2. <a href="https://www.linkedin.com/in/shivanisharma123">LinkedIn Profile</a> <br><br>
-   3. <a href="https://drive.google.com/open?id=1FDjnUSnQqBungFeFE5_djhLXeJJSKiOa">Resume</a> <br><br>
+   3. <a href="https://drive.google.com/file/d/1_Ezoaxbj0iLB0UyAOEIs3Cg-9fVsqNrw/view?usp=sharing">Resume</a> <br><br>
+ 
