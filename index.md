@@ -1,4 +1,4 @@
-<div class="row" style="height:500px">
+<div class="row" style="height:290px">
   <div class="column" style="width:50%">
     <img src="/images/my_pic.jpg" alt="Avatar" style="width: 260px; border-radius: 80%"><br>
   </div>
@@ -29,6 +29,6 @@ Self-motivated Quality Analyst with 4.7 years of  UI/UX & backend QA experience 
     </p>
  
  <p>
-   Mobile: +91 9834787497<br>
-   Email:  ssshivanisharma10@gmail.com
+   <b>Mobile:</b> +91 9834787497<br>
+   <b>Email:</b>  ssshivanisharma10@gmail.com
   </p>
