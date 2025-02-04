@@ -23,11 +23,15 @@
 Self-motivated Automation Quality Engineer with 9+ years of  UI/UX & backend QA and automatuion experience in the Fintech, Insuretech and Agritech industry and CRM tools, worked extensively in all phases of testing for client/server applications. Have worked on the most critical payment checkout page in an ecommerce company for 3+ years ensuring significant high quality and fault-free audits. Proficient in system, unit, performance, api, regression, stress and data interface testing, providing detailed reports on quality metrics and ensuring corrective actions are taken.
     </p>
  <p> 
-   **Projects and Domains worked on:** 
-  <b>  1. Payment Gateway  </b>
-    <b>2. Agritech  </b>
-  <b>  3. Slack/salesforce (communication tools)</b>
-   <b> 4. Insuretech  </b> 
+   <b>Projects and Domains worked on:</b>
+   <br>
+   1. Payment Gateway
+   <br>
+   2. Agritech
+   <br>
+   3. Slack/salesforce (communication tools)
+   <br>
+   4. Insuretech
  </p>
  <p>
    <b>Mobile:</b> +91 9834787497<br>
