@@ -24,10 +24,10 @@ Self-motivated Automation Quality Engineer with 9+ years of  UI/UX & backend QA 
     </p>
  <p> 
    **Projects and Domains worked on:** 
-   1. Payment Gateway
-   2. Agritech
-   3. Slack/salesforce (communication tools)
-   4. Insuretech 
+  <b>  1. Payment Gateway  </b>
+    <b>2. Agritech  </b>
+  <b>  3. Slack/salesforce (communication tools)</b>
+   <b> 4. Insuretech  </b> 
  </p>
  <p>
    <b>Mobile:</b> +91 9834787497<br>
