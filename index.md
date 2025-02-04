@@ -25,7 +25,7 @@
    
    
    <p>
-Self-motivated Automation Quality Engineer with 7+ years of  UI/UX & backend QA and automatuion experience in the Fintech industry and CRM tools, worked extensively in all phases of testing for client/server applications. Have worked on the most critical payment checkout page in an ecommerce company for 3+ years ensuring significant high quality and fault-free audits. Proficient in system, unit, performance, api, regression, stress and data interface testing, providing detailed reports on quality metrics and ensuring corrective actions are taken.
+Self-motivated Automation Quality Engineer with 9+ years of  UI/UX & backend QA and automatuion experience in the Fintech, Insuretech and Agritech industry and CRM tools, worked extensively in all phases of testing for client/server applications. Have worked on the most critical payment checkout page in an ecommerce company for 3+ years ensuring significant high quality and fault-free audits. Proficient in system, unit, performance, api, regression, stress and data interface testing, providing detailed reports on quality metrics and ensuring corrective actions are taken.
     </p>
  
  <p>
