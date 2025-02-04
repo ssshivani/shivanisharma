@@ -4,7 +4,7 @@
   </div>
   <div class="column" style="width:50%">
     1. <a href="https://docs.google.com/spreadsheets/d/1cqnQtk0iNMu_QEe1E56HM6Ull4Ce1Rb6mboTw1yW2W4/edit?usp=sharing">
-          Projects Description
+          Projects Worked upon:
         </a>
         <br>
         <br>
@@ -13,7 +13,7 @@
       </a> 
       <br>
       <br>
-   3. <a href="https://drive.google.com/file/d/1YCQWmTS4AbbbLSKLHZ5vnPbeWRgeRHvP/view?usp=share_link">
+   3. <a href = "https://drive.google.com/file/d/1dwUBwphQPlHpF29Xo9mZc-xm9bRVE6uc/view?usp=sharing">
         Resume
       </a>
       <br>
